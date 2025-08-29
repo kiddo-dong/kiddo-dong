@@ -22,5 +22,5 @@
 
 <!--Skiils icons-->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,aws,react,nextjs,emotion,ts,kubernetes,docker&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,aws,react,nextjs,emotion,ts,kubernetes,docker,python,&perline=7"/>
 </p>
