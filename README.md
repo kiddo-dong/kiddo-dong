@@ -5,7 +5,6 @@
 </p><br/>
 <h4 align="center"> ➖ </h4>
 <h3 align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgngsn&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
 
@@ -21,9 +20,7 @@
 <br/>
 <br/>
 
+<!--Skiils icons-->
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,aws,react,nextjs,emotion,ts,gatsby,kubernetes,docker&perline=7"/>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,aws,react,nextjs,emotion,ts,gatsby,kubernetes,docker&perline=7"/>
-
 </p>
