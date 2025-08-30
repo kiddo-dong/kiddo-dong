@@ -10,7 +10,7 @@
 
 <br/>
 <br/>
-
+<h2>Skills</h2>
 <!--Skiils icons-->
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,aws,react,ts,nextjs,emotion,kubernetes,docker,git,linux,python,c&perline=5"/>
