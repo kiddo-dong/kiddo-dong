@@ -13,5 +13,5 @@
 <h3 align="center">Skills</h3>
 <!--Skiils icons-->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,react,ts,nextjs,docker,git,linux,python,c&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mybatis,aws,react,ts,nextjs,docker,git,linux,python,c&perline=5"/>
 </p>
