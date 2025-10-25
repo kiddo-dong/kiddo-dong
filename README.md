@@ -1,6 +1,6 @@
 <br/><br/>
-<p align="center"> 
-<h3> <a align="center" target="_blank"> Hi, I'm DongHyun 🙌 </a></h3><br/>
+ 
+<h3> <p align="center"> <a align="center" target="_blank"> Hi, I'm DongHyun 🙌 </a></h3><br/>
 <br/>
 <a align="center" target="_blank" href="https://kiddo-dong.vercel.app/"> kiddo-dong </a> <br/>
 </p><br/>
